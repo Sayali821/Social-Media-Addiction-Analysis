@@ -1,7 +1,6 @@
 # 📱 Social Media Time-Wasting Behavior Analysis
 
-![Social Media Analysis](https://github.com/user-attachments/assets/9b7e8501-738c-4892-a835-e10ea40c5625)
-
+<img src="https://github.com/Sayali821/Social-Media-Addiction-Analysis/blob/3ed74cf1de1fea7ac9ee6673b5e6d16319220889/Banner_sma.jpg" width="1000"/>
 ## 📊 Overview
 
 This project analyzes time-wasting behavior on social media platforms by examining user-level data. The dataset contains user demographics, platform usage, video engagement, and behavioral factors such as self-control and addiction. The goal is to uncover patterns in social media usage and assess their impact on productivity and user well-being.
