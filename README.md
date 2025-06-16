@@ -1,4 +1,4 @@
-# 📱 Social Media Time-Wasting Behavior Analysis
+# 📱 Social Media Time-Wasting Analysis
 
 <img src="https://github.com/Sayali821/Social-Media-Addiction-Analysis/blob/3ed74cf1de1fea7ac9ee6673b5e6d16319220889/Banner_sma.jpg" width="1000"/>
 
